@@ -1,0 +1,28 @@
+# Xcode
+.DS_Store
+*.swp
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcuserstate
+*.xcodeproj/xcshareddata/WorkspaceSettings.xcsettings
+*.xcworkspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+# Pods
+Pods/
+podfile.lock
+
+# DerivedData
+DerivedData/
+
+# Configuração do usuário
+.idea/
+.vscode/
+
+# Outros
+.env
